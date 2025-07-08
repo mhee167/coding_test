@@ -11,7 +11,7 @@ for gualho in gualho_list:
 
 print(len(result_list)==0)
 
-
+# 정답 코드
 def solution(s):
     stack=[]
     for c in s:
